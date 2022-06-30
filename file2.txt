@@ -1,0 +1,4 @@
+# file2.txt 
+This is file2 which i shall add and push to github for testing puropses, i think i am getting use to
+this well done me ah ahah.
+ 
