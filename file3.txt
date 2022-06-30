@@ -3,4 +3,5 @@ This is file3 main object is to add an imagine this this file lets see if this w
 
 ## section 2 image 
 [my imagine]
-/c/Users/shaha/Pictures/12ac7debd896b1034ae6ac7f176b5686.jpg
+![utred!](/c/Users/shaha/Pictures/12ac7debd896b1034ae6ac7f176b5686.jpg)
+  
