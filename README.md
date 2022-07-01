@@ -6,3 +6,4 @@ this is where all the fun begins by  playing around with git bash so i may get u
 
 Hello world.
 
+* [goku](/c/Users/shaha/Pictures/goku.jpg)
